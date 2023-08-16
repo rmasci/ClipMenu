@@ -1,3 +1,5 @@
+Forked 8/16/2023
+
 ClipMenu
 ========
 A clipboard manager for Mac OS X.
